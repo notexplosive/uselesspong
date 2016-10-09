@@ -1,0 +1,98 @@
+{
+  "behaviors": {
+    "BallBehavior": {
+      "scriptId": "4",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "whoscored",
+          "type": "number"
+        },
+        {
+          "name": "tick",
+          "type": "number"
+        }
+      ]
+    },
+    "PlayerScriptBehavior": {
+      "scriptId": "5",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "EnemyScriptBehavior": {
+      "scriptId": "6",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "ScoreScriptBehavior": {
+      "scriptId": "7",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "pScore",
+          "type": "number"
+        },
+        {
+          "name": "eScore",
+          "type": "number"
+        }
+      ]
+    },
+    "VaporTrailBehavior": {
+      "scriptId": "10",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "tick",
+          "type": "number"
+        }
+      ]
+    },
+    "ParticleBehavior": {
+      "scriptId": "11",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "mov",
+          "type": "Sup.Math.Vector2"
+        },
+        {
+          "name": "rot",
+          "type": "number"
+        }
+      ]
+    },
+    "ImpactBehavior": {
+      "scriptId": "13",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "trigger",
+          "type": "boolean"
+        }
+      ]
+    },
+    "ScreenShakeBehavior": {
+      "scriptId": "14",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "trigger",
+          "type": "boolean"
+        },
+        {
+          "name": "tick",
+          "type": "number"
+        }
+      ]
+    }
+  }
+}

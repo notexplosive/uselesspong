@@ -1,0 +1,3 @@
+let PLAYER_SPEED = .07;
+let BALL_SPEED = .1;
+let ENEMY_SPEED = .05;

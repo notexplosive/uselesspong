@@ -1,0 +1,97 @@
+{
+  "nextEntryId": 18,
+  "nodes": [
+    {
+      "id": "0",
+      "name": "Ball",
+      "type": "sprite"
+    },
+    {
+      "id": "1",
+      "name": "Paddle",
+      "type": "sprite"
+    },
+    {
+      "id": "2",
+      "name": "Board",
+      "type": "sprite"
+    },
+    {
+      "id": "8",
+      "name": "Score",
+      "type": "font"
+    },
+    {
+      "id": "3",
+      "name": "Scene",
+      "type": "scene"
+    },
+    {
+      "id": "9",
+      "name": "GLOBAL",
+      "type": "script"
+    },
+    {
+      "id": "4",
+      "name": "BallScript",
+      "type": "script"
+    },
+    {
+      "id": "5",
+      "name": "PlayerScript",
+      "type": "script"
+    },
+    {
+      "id": "6",
+      "name": "EnemyScript",
+      "type": "script"
+    },
+    {
+      "id": "7",
+      "name": "ScoreScript",
+      "type": "script"
+    },
+    {
+      "id": "12",
+      "name": "Polish",
+      "type": null,
+      "children": [
+        {
+          "id": "11",
+          "name": "Particle",
+          "type": "script"
+        },
+        {
+          "id": "10",
+          "name": "VaporTrail",
+          "type": "script"
+        },
+        {
+          "id": "13",
+          "name": "Impact",
+          "type": "script"
+        },
+        {
+          "id": "14",
+          "name": "ScreenShake",
+          "type": "script"
+        },
+        {
+          "id": "15",
+          "name": "SpawnBall",
+          "type": "sound"
+        },
+        {
+          "id": "16",
+          "name": "HitBall",
+          "type": "sound"
+        },
+        {
+          "id": "17",
+          "name": "BounceBall",
+          "type": "sound"
+        }
+      ]
+    }
+  ]
+}
